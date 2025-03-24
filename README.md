@@ -1,4 +1,6 @@
 # Nmap-CDIR-Scanner
+![image](https://github.com/user-attachments/assets/3b9c2811-4812-4497-ab09-f60a614ad6ab)
+
 
 This script performs an Nmap scan on a given network CIDR range, 
 validates input, and saves the results in a user-specified format.
