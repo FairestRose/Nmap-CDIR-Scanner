@@ -8,4 +8,5 @@ It can be used in Windows or a Kali Machine.
 
 ## Installation 
 Download the script and run using the command line or in Visual Studio code. 
-Run in command line using sudo python scanner.py 
+
+Run in command line using : sudo python scanner.py 
